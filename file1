@@ -1,1 +1,6 @@
-
+#include<studio.h>
+void main()
+{
+printf("Hello git...!")
+printf('\nThis is the basic c program")
+}
